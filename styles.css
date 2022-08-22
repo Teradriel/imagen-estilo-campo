@@ -1,0 +1,13 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif; /* no conozco el nombre del estilo de letra */
+}
+
+.estilo-campo {
+  border-radius: 5%;
+  border-color: rgb(116, 58, 32);
+  background-color: rgb(160, 131, 51);
+}
+
+a {
+  color: rgb(97, 71, 7);
+}
